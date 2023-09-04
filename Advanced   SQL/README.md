@@ -7,7 +7,7 @@
 
 ER-диаграмму базы:
 
-[png](https://github.com/wolganovikova/Portfolio/tree/master/Advanced%20%20%20SQL/images)
+[png](https://github.com/wolganovikova/Portfolio/blob/master/Advanced%20%20%20SQL/Image%20Advanced%20%20.png)
 
 
 * badges (хранит информацию о значках, которые присуждаются за разные достижения),
