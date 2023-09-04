@@ -74,7 +74,9 @@
 
 По результатам исследования необходимо подготовить:
 
-презентацию, дашборд
+презентацию:https://disk.yandex.ru/i/E2Pa7OwMhIUU0Q, 
+
+дашборд:https://public.tableau.com/app/profile/.36561146/viz/_16886183132220/Dashboard1?publish=yes
 
 Дашборд
 
