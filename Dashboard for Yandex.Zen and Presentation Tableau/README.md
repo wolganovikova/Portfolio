@@ -1,6 +1,6 @@
 # 	Дашборд для Яндекс.Дзена и Презентация.
 
-[ipynb](https://github.com/wolganovikova/Portfolio/blob/master/Dashboard%20for%20Yandex.Zen%20and%20Presentation%20Tableau/Dashboard%20for%20Yandex.Zen.ipynb) [html](https://github.com/wolganovikova/Portfolio/blob/master/Dashboard%20for%20Yandex.Zen%20and%20Presentation%20Tableau/Dashboard%20for%20Yandex.Zen.html) [md](https://github.com/wolganovikova/Portfolio/blob/master/%20Dashboard%20for%20Yandex.Zen%20and%20Presentation%20Tableau/Dashboard%20for%20Yandex.Zen.md) 
+[ipynb](https://github.com/wolganovikova/Portfolio/blob/master/Dashboard%20for%20Yandex.Zen%20and%20Presentation%20Tableau/Dashboard%20for%20Yandex.Zen.ipynb) [html](https://github.com/wolganovikova/Portfolio/blob/master/Dashboard%20for%20Yandex.Zen%20and%20Presentation%20Tableau/Dashboard%20for%20Yandex.Zen.html) [md](https://github.com/wolganovikova/Portfolio/blob/master/Dashboard%20for%20Yandex.Zen%20and%20Presentation%20Tableau/Dashboard%20for%20Yandex.Zen.md) 
 
 ## Описание проекта
 
