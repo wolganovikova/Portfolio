@@ -1,6 +1,6 @@
 # Исследование объявлений о продаже квартир "Яндекс Недвижимость"
 
- [ipynb](https://github.com/wolganovikova/Portfolio/blob/master/Research%20analysis%20of%20Yandex%20Real%20Estate%20data/research%20analysis%20of%20Yandex%20Real%20Estate%20data.ipynb) [html](https://github.com/wolganovikova/Portfolio/blob/master/Research%20analysis%20of%20Yandex%20Real%20Estate%20data/Research%20analysis%20of%20Yandex%20Real%20Estate%20data.html) [md](https://github.com/wolganovikova/Portfolio/blob/master/Research%20analysis%20of%20Yandex%20Real%20Estate%20data/Research%20analysis%20of%20Yandex%20Real%20Estate%20data.md)
+ [ipynb](https://github.com/wolganovikova/Portfolio/blob/master/Research%20of%20ads%20for%20the%20sale%20of%20apartments%20Yandex%20Real%20Estate/Research%20of%20ads%20for%20the%20sale%20of%20apartments%20Yandex%20Real%20Estate.ipynb) [html](https://github.com/wolganovikova/Portfolio/blob/master/Research%20analysis%20of%20Yandex%20Real%20Estate%20data/Research%20analysis%20of%20Yandex%20Real%20Estate%20data.html) [md](https://github.com/wolganovikova/Portfolio/blob/master/Research%20analysis%20of%20Yandex%20Real%20Estate%20data/Research%20analysis%20of%20Yandex%20Real%20Estate%20data.md)
 
 ## Описание проекта
 
