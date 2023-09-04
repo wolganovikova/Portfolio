@@ -7,7 +7,8 @@
 
 ER-диаграмму базы:
 
-[png](https://github.com/wolganovikova/Portfolio/blob/master/Basic%20%20SQL/images/Image%20Basic%20.png)
+[png](https://github.com/wolganovikova/Portfolio/blob/master/Basic%20%20SQL/Image%20Basic%20.png)
+
 
 
 * acquisition (cодержит информацию о покупках одних компаний другими);
